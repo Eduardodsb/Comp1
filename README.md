@@ -1,5 +1,5 @@
 # Computação 1 - C
-Tarefas realizadas na disciplina de Computação 1. Tal disciplina tem como foco a aprendizagem de C e foi lecionada pelo professor Adriano Joaquim de Oliveira Cruz (https://im.ufrj.br/visualizarDocente.php?idDepartamento=2&amp;idDocente=14)  
+Tarefas realizadas na disciplina de Computação 1 em 2016.2. Tal disciplina tem como foco a aprendizagem de C e foi lecionada pelo professor Adriano Joaquim de Oliveira Cruz (https://im.ufrj.br/visualizarDocente.php?idDepartamento=2&amp;idDocente=14)  
 
 ## Requisítos necessários:
 
